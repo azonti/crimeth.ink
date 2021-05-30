@@ -41,9 +41,9 @@ title: Profile
   * [参加記](https://trap.jp/post/631/)
 * ICTトラブルシューティングコンテスト2018 **優勝**
   * [主催者レポート](https://icttoracon.net/archives/8038)
-* 第14回危機管理コンテスト **JPCERT/CC賞**(個人賞)
+* 第14回危機管理コンテスト **JPCERT/CC賞**(最優秀個人賞)
   * [大学ニュース](https://www.titech.ac.jp/news/2019/044532.html)
-* SECCON CTF 2019 International **優勝**
+* SECCON CTF 2019 International **経済産業大臣賞**(優勝)
   * [Yahoo!ニュース](https://news.yahoo.co.jp/articles/1919e9a25a1d0426cc455363ded8b5a3102a9ff0)
   * [大学ニュース](https://www.titech.ac.jp/news/2020/046178.html)
   * [参加記](https://trap.jp/post/977/)
