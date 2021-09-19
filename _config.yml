@@ -115,3 +115,8 @@ feed:
   limit: 20
   hub:
   icon: /images/icon.png
+
+# hexo-renderer-marked
+marked:
+  prependRoot: true
+  postAsset: true
