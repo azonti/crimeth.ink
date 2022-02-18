@@ -2,8 +2,6 @@
 title: Profile
 ---
 
-# Shu Takayama (高山 柊)
-
 ## CTF
 
 * [NaruseJun](https://ctftime.org/team/21252)
