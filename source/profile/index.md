@@ -24,6 +24,8 @@ title: Profile
 * セキュリティ・キャンプ全国大会2018 開発と運用トラック **参加**
 * 株式会社メルカリ Summer Internship for Engineer 2019 **参加**
   * [成果報告会レポート](https://engineering.mercari.com/blog/entry/2019-10-24-171152/)
+* 株式会社アカツキ Summer Internship 2021 Go/GCPコース **参加**
+  * [参加記](https://crimeth.ink/2021/09/20/07/)
 
 ## 受賞歴
 
