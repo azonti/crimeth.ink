@@ -103,9 +103,7 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:azonti/_at_.crimeth.ink.git
-  branch: gh-pages
+  type: ''
 
 # hexo-generator-feed
 feed:
