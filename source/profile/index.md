@@ -18,6 +18,7 @@ title: Profile
 * 2017/04 東京工業大学 第5類 **入学**
 * 2021/03 東京工業大学 情報理工学院 数理・計算科学系 **卒業**
 * 2021/04 東京工業大学大学院 情報理工学院 数理・計算科学系 数理・計算科学コース **入学**
+* 2023/03 東京工業大学大学院 情報理工学院 数理・計算科学系 数理・計算科学コース **修了**
 
 ## 活動歴
 
@@ -71,3 +72,5 @@ title: Profile
 * [Proof-of-Stakeブロックチェーンの中央集権化へのコイン年齢の影響](https://www.ieice.org/ken/paper/20200305Z1vK/)
 * [パブリックブロックチェーンを用いたプログラマブルな正答集合を扱える試験プロトコル](https://easychair.org/smart-program/PPL2021/2021-03-11.html#talk:165715)
   * 第23回プログラミングおよびプログラミング言語ワークショップ (査読付き国内学会) **採択**
+* [An Examination Protocol for Handling Programmable Answers Using a Public Blockchain](https://doi.org/10.1109/Blockchain53845.2021.00057)
+  * 2021 IEEE International Conference on Blockchain (査読付き国際学会) **採択**
