@@ -2,13 +2,6 @@
 title: Profile
 ---
 
-## CTF
-
-* [NaruseJun](https://ctftime.org/team/21252)
-
-## 競技プログラミング
-
-* [AtCoder](https://atcoder.jp/users/azon)
 
 ## 学歴
 
